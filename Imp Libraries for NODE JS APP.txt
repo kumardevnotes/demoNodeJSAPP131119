@@ -1,0 +1,5 @@
+npm install body-parser
+npm install express-generator -g
+npm install express -g
+npm install mongodb --save
+npm install cors
